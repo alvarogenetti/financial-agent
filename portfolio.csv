@@ -1,0 +1,32 @@
+Nro. de Mov.;Nro. de Boleto;Tipo Mov.;Concert.;Liquid.;Est;Cant. titulos;Precio;Comis.;Iva Com.;Otros Imp.;Monto;Tipo Cuenta
+157146572;0;Venta(AL30D);29/12/25;29/12/25;Terminada;247;67,04;0;0;24,42;-24,42;Inversion Argentina Pesos
+157146572;0;Venta(AL30D);29/12/25;29/12/25;Terminada;247;67,04;0,83;0;0;164,76;Inversion Argentina Dolares
+157139335;0;Compra(AL30);29/12/25;29/12/25;Terminada;247;99950;1.234,38;0;24,69;-248.135,57;Inversion Argentina Pesos
+66648099;10092237;Dep¢sito de Fondos - Transferencia electr¢nica - BANCO SUPERVIELLE S.A.;29/12/25;29/12/25;Terminada;0;0;0;0;0;500.000,00;Inversion Argentina Pesos
+155445477;26161990;Suscripci¢n FCI(CRTAFAA);15/12/25;15/12/25;Terminada;8;162,2429;0;0;0;-1.320,88;Inversion Argentina Pesos
+154895731;25878624;Suscripci¢n FCI(CRTAFAA);10/12/2025;10/12/2025;Terminada;2477;161,4337;0;0;0;-400.000,00;Inversion Argentina Pesos
+154896637;25878516;Suscripci¢n FCI(ADCGLOA);10/12/2025;10/12/2025;Terminada;209;1,2821;0;0;0;0;Inversion Argentina Pesos
+154896637;25878516;Suscripci¢n FCI(ADCGLOA);10/12/2025;10/12/2025;Terminada;209;1,2821;0;0;0;-268,83;Inversion Argentina Dolares
+154896167;25877822;Suscripci¢n FCI(CONIOLA);10/12/2025;10/12/2025;Terminada;2177;183,6881;0;0;0;-399.999,98;Inversion Argentina Pesos
+154896443;25842496;Venta(AL30D);10/12/2025;10/12/2025;Terminada;408;66,22;0;0;39,58;-39,58;Inversion Argentina Pesos
+154896443;25842496;Venta(AL30D);10/12/2025;10/12/2025;Terminada;408;66,22;1,35;0;0;268,83;Inversion Argentina Dolares
+154896431;25842483;Compra(AL30);10/12/2025;10/12/2025;Terminada;408;97210;1.983,08;0;39,66;-398.639,54;Inversion Argentina Pesos
+66183765;9664873;Dep¢sito de Fondos - Transferencia electr¢nica - BANCO SUPERVIELLE S.A.;10/12/2025;10/12/2025;Terminada;0;0;0;0;0;1.200.000,00;Inversion Argentina Pesos
+151039803;23588766;Suscripci¢n FCI(CRTAFAA);5/11/2025;5/11/2025;Terminada;4478;156,2997;0;0;0;-700.000,00;Inversion Argentina Pesos
+151040034;23588115;Suscripci¢n FCI(CONIOLA);5/11/2025;5/11/2025;Terminada;1617;185,4597;0;0;0;-300.000,00;Inversion Argentina Pesos
+65070363;8861978;Dep¢sito de Fondos - Transferencia electr¢nica - BANCO SUPERVIELLE S.A.;5/11/2025;5/11/2025;Terminada;0;0;0;0;0;1.000.000,00;Inversion Argentina Pesos
+150301945;23171276;Suscripci¢n FCI(ADCGLOA);31/10/25;31/10/25;Terminada;576;1,2762;0;0;0;0;Inversion Argentina Pesos
+150302290;23170725;Suscripci¢n FCI(CONIOLA);31/10/25;31/10/25;Terminada;18;182,2673;0;0;0;-3.382,08;Inversion Argentina Pesos
+150301945;23171276;Suscripci¢n FCI(ADCGLOA);31/10/25;31/10/25;Terminada;576;1,2762;0;0;0;-735,39;Inversion Argentina Dolares
+150301583;23129219;Venta(AL30D);31/10/25;31/10/25;Terminada;1159;63,77;3,7;0;0;735,39;Inversion Argentina Dolares
+150301583;23129219;Venta(AL30D);31/10/25;31/10/25;Terminada;1159;63,77;0;0;108,28;-108,28;Inversion Argentina Pesos
+150301541;23129206;Compra(AL30);31/10/25;31/10/25;Terminada;1159;94150;5.455,99;0;109,12;-1.096.763,61;Inversion Argentina Pesos
+64721580;8737684;Dep¢sito de Fondos - Transferencia electr¢nica - BANCO SUPERVIELLE S.A.;31/10/25;31/10/25;Terminada;0;0;0;0;0;1.100.000,00;Inversion Argentina Pesos
+149439460;22556976;Suscripci¢n FCI(CRTAFAA);27/10/25;27/10/25;Terminada;216;153,5647;0;0;0;-33.299,99;Inversion Argentina Pesos
+149444600;22556901;Suscripci¢n FCI(ADCGLOA);27/10/25;27/10/25;Terminada;17;1,2735;0;0;0;0;Inversion Argentina Pesos
+149444600;22556901;Suscripci¢n FCI(ADCGLOA);27/10/25;27/10/25;Terminada;17;1,2735;0;0;0;-22,85;Inversion Argentina Dolares
+149438599;22556488;Suscripci¢n FCI(CONIOLA);27/10/25;27/10/25;Terminada;217;152,8808;0;0;0;-33.299,99;Inversion Argentina Pesos
+149444150;22474002;Venta(AL30D);27/10/25;27/10/25;Terminada;37;62,05;0;0;3,48;-3,48;Inversion Argentina Pesos
+149444150;22474002;Venta(AL30D);27/10/25;27/10/25;Terminada;37;62,05;0,11;0;0;22,85;Inversion Argentina Dolares
+149444122;22473976;Compra(AL30);27/10/25;27/10/25;Terminada;37;89120;164,87;0;3,3;-33.142,57;Inversion Argentina Pesos
+64532487;8567817;Dep¢sito de Fondos - Transferencia electr¢nica - BANCO SUPERVIELLE S.A.;27/10/25;27/10/25;Terminada;0;0;0;0;0;100.000,00;Inversion Argentina Pesos
